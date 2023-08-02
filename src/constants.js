@@ -1,0 +1,1 @@
+export const thriveSignupUrl = "https://auth.thrivestackdemo.live/"
