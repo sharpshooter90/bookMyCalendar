@@ -1,1 +1,1 @@
-export const thriveSignupUrl = "https://auth.thrivestackdemo.live/"
+export const thriveSignupUrl = process.env.REACT_APP_AUTH_URL
