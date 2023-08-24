@@ -69,7 +69,7 @@ function NavBar(props) {
               display="inline"
               color="primary"
             >
-              Sample
+              ThriveStack
             </Typography>
             <Typography
               variant="h4"
@@ -77,7 +77,7 @@ function NavBar(props) {
               display="inline"
               color="secondary"
             >
-              Saas
+              Demo
             </Typography>
           </div>
           <div>

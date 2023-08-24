@@ -117,7 +117,7 @@ function HeadSection(props) {
                     >
                       <Box mb={4}>
                         <Typography variant={isWidthUpLg ? "h3" : "h4"}>
-                          Revolutionizing Saas Products
+                          Where business meets banter. Unleash the future of B2B SaaS with a sprinkle of fun. 
                         </Typography>
                       </Box>
                       <div>
@@ -126,10 +126,8 @@ function HeadSection(props) {
                             variant={isWidthUpLg ? "h6" : "body1"}
                             color="textSecondary"
                           >
-                            Lorem ipsum dolor sit amet, consetetur sadipscing
-                            elitr, sed diam nonumy eirmod tempor invidunt.
-                            Lorem ipsum dolor sit amet, consetetur sadipscing
-                            elitr, sed diam nonumy eirmod tempor invidunt
+                            At ThriveStackDemo, we blend the might of advanced B2B tools with a dash of wit and whimsy. Dive into a world where efficiency meets effervescence. 
+                            Because who said business can't have a belly laugh? 
                           </Typography>
                         </Box>
                         <Button

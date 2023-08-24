@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set variables
-BUCKET_NAME=tatic-website-bucket
+BUCKET_NAME=saaas-marketing-bucket
 WEBSITE_FOLDER=$(pwd)/build
 
 # Create the S3 bucket
